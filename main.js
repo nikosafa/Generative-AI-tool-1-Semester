@@ -1,3 +1,5 @@
+//Hjælpemidler: https://www.youtube.com/watch?v=Mpr9UsdoiSU og ChatGPT
+
 const form = document.querySelector('#travel-form');
 const itineraryOutput = document.querySelector('#itinerary-output');
 
